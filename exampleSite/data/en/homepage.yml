@@ -26,14 +26,13 @@ portfolio:
   enable: true
   bg_image: "/images/dji-4208863_1280.jpg"
   title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
+  content: "“Only a fool learns from his own mistakes. The wise man learns from the
+    mistakes of others.” - Otto von Bismarck\n\nMaecenas faucibus mollis interdum.
+    Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus
+    ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit
+    amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
     ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+    condimentum nibh, ut fermentum massa justo sit amet risus. "
   button:
     enable: true
     label: View Works
