@@ -1,8 +1,8 @@
 ---
 title: Hydroponic Farming vs Traditional Farming
 date: 2020-05-30T05:07:10+00:00
-author: John Doe
-image: images/blog/blog-post-6.jpg
+author: Derrick M
+image: "/images/farm-1554307_640.jpg"
 bg_image: "/images/agriculture-2229_1280.jpg"
 categories:
 - Company News
@@ -11,13 +11,15 @@ tags:
 - Retro
 - AI
 - Company
-description: this is meta description
+description: 'Hydroponic farming is a type of Horticulture and a subset of hydroculture,
+  which is a method of growing plants without soil, by using mineral nutrient solutions
+  in a water solvent. '
 type: post
 
 ---
 Are you wondering which farming method is better between hydroponics and traditional methods? Well follow through with this guide and we will give you the obvious answer.
 
-Hydroponic farming is basically a type of Horticulture and a subset of hydroculture, which is a method of growing plants without soil, by using mineral nutrient solutions in a water solvent. Terrestrial plants may be grown with only their roots exposed to the nutritious liquid, or the roots may be physically supported by an inert medium such as perlite, gravel, or other substrates.
+Hydroponic farming is a type of Horticulture and a subset of hydroculture, which is a method of growing plants without soil, by using mineral nutrient solutions in a water solvent. Terrestrial plants may be grown with only their roots exposed to the nutritious liquid, or the roots may be physically supported by an inert medium such as perlite, gravel, or other substrates.
 
 On the other hand, traditional farming is the most practiced form of agriculture around the world, became commonplace following the two world wars, as it was during that era that knowledge about chemistry greatly increased.
 
