@@ -1,10 +1,11 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
-  title: A Digital Marketing <br/> & Design Agency
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  bg_image: "/images/countryside-1851503_1280.jpg"
+  title: A Hub for <br/> Smart Farmers
+  content: We understand the importance of farming. There is tremendous benefit from
+    sharing what we know with others. Learning from each other makes the journey easier,
+    and worthwhile.
   button:
     enable: true
     label: Discover Our Project
