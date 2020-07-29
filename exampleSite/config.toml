@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://affectionate-saha-5542ba.netlify.app/"
-title = "Savets | Creative Agency Hugo Template"
+baseURL = "https://www.smartfarmershub.com/"
+title = "Smart Farmers Hub | Farming the smart way"
 theme = "airspace-hugo"
 # post pagination
 paginate = "4"
