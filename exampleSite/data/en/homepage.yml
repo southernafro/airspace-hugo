@@ -26,13 +26,12 @@ portfolio:
   enable: true
   bg_image: "/images/dji-4208863_1280.jpg"
   title: WE BELIEVE IN GREAT IDEAS
-  content: "“Only a fool learns from his own mistakes. The wise man learns from the
-    mistakes of others.” - Otto von Bismarck\n\nMaecenas faucibus mollis interdum.
-    Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus
-    ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit
-    amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: |-
+    “Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.” - Otto von Bismarck
+
+    This couldn't be more true when it comes to farming. Our personal experiences and that of others should be brought together to build a wealth of information that we can all benefit from.
+
+    Whatever the type of farming that you are involved in, there is information that you can share. There is undoubtedly science, tools, and new methods at our disposal. It would be a travesty if we didn't take advantage of these things. They are the things that make us Smart Farmers.
   button:
     enable: true
     label: View Works
