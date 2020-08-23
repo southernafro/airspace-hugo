@@ -34,5 +34,6 @@ fields:
   default: post
 pages:
 - exampleSite/content/english/blog/advantages-of-hydroponics.md
+- exampleSite/content/english/blog/how-to-start-hydroponic-farming.md
 - exampleSite/content/english/blog/hydroponic-farming-in-kerala.md
 - exampleSite/content/english/blog/is-hydroponic-farming-profitable.md
