@@ -5,7 +5,7 @@ author: Derrick M
 image: "/images/farm-1554307_640.jpg"
 bg_image: "/images/agriculture-2229_1280.jpg"
 categories:
-- Company News
+- Hydroponic farming
 tags:
 - Hydroponics
 description: 'Hydroponic farming is a type of Horticulture and a subset of hydroculture,
