@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-09-02T11:00:00Z
 description = ""
-draft = true
 image = "/images/garden-1549245_640.jpg"
 tags = []
 title = "Is Hydroponic Farming Organic"
