@@ -52,11 +52,6 @@ name = "Blog"
 URL = "blog"
 weight = 2
 
-[[menu.main]]
-weight = 3
-name = "Pages"
-hasChildren = false
-
   
 [[menu.main]]
 name = "Contact"
