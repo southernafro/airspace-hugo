@@ -1,6 +1,6 @@
 ---
-title: "Mark Dinn"
-email: "email2@example.org"
+title: "Derrick M"
+email: "smartfarmershub@gmail.com"
 bg_image: "images/featue-bg.jpg"
 draft: false
 social:
@@ -12,5 +12,4 @@ social:
     link : "#"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+I long for a world where our food is grown in ways that benefit farmers and consumers alike, with as little or no cost to the environment. 
