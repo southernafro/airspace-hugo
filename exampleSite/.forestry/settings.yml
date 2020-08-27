@@ -39,21 +39,6 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: exampleSite/content/english/service
-  label: Service (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/pricing
-  label: Pricing (en)
-  create: none
-  match: "*"
-- type: directory
-  path: exampleSite/content/english/faq
-  label: FAQ (en)
-  create: none
-  match: "*"
-- type: directory
   path: exampleSite/content/english/contact
   label: Contact (en)
   create: none
