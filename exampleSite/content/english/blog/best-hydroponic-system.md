@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-09-24T11:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "Best Hydroponic System"
