@@ -124,7 +124,7 @@ This here is a great hydroponic tent that is designed to block all light from es
 
 The tent also increases the intensity of grow lights and retains heat to keep the whole grow room at the right temperature for plants, flowers, fruits, and vegetables such that they are able to thrive.
 
-The tent comes made from high quality plus its OVC free making it rather friendly to all plants. It has heavy duty zippers that do not open on their own at the same time are easy fir anyone trying to open them.
+The tent comes made from high quality plus its OVC free making it rather friendly to all plants. It has heavy duty zippers that do not open on their own at the same time are easy for anyone trying to open them.
 
 #### Pros
 
@@ -136,7 +136,7 @@ The tent comes made from high quality plus its OVC free making it rather friendl
 #### Cons
 
 * It does not come with free plants
-* The tents is not proof to elements such as fire
+* The tent is not resistant to elements such as fire
 
 [CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
 
@@ -150,4 +150,4 @@ Hydroponic systems work by allowing minute control over environmental conditions
 
 ## Final Thoughts
 
-In conclusion, all i can say is when it comes to getting the best system. You have to understand that your ability to comply with what the system requires from you is what makes it the best.
+In conclusion, all I can say is when it comes to getting the best system. You have to understand that your ability to comply with what the system requires from you is what makes it the best.
