@@ -23,7 +23,7 @@ Are you in a hurry to find yourself the best hydroponic system? Then follow thro
 
 Before we go any further I would like to give special recognition to this system here. It is a 2 in 1 that is sure to have you achieving your goals within a glimpse. So be sure to check it out.
 
-[https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_= "https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=")
+[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
 
 ### AeroGarden Ultra with Gourmet Herb Seed Pod Kit
 
@@ -35,14 +35,14 @@ The system includes 3 full spectrum CFL grow lights, gourmet herb seed pod kit, 
 
 #### Pros
 
-* They system aids the plants in growing five times faster than with regular soil grown plants
+* The system aids the plants in growing five times faster than with regular soil grown plants
 * It has an LCD display control panel that is very easy to use
-* It is ideal for bulk produce for one planning on it
+* It is ideal for bulk production for one planning on it
 * It is quite affordable as compared to other systems
 
 #### Cons
 
-* Does not come with a pre installed light
+* Does not come with a pre-installed light
 * Power usage for the system is not known
 
 [https://www.amazon.com/AeroGarden-Ultra-Gourmet-Herb-Seed/dp/B00FHXNG6U](https://www.amazon.com/AeroGarden-Ultra-Gourmet-Herb-Seed/dp/B00FHXNG6U "https://www.amazon.com/AeroGarden-Ultra-Gourmet-Herb-Seed/dp/B00FHXNG6U")
@@ -67,6 +67,8 @@ There is a digital control panel as well as a smartphone app for you. It allows 
 * It does not come with its own control system
 * Does not have any inbuilt light control
 
+[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
+
 [https://www.amazon.com/AeroGarden-Farm-Plus-Black-Height/dp/B073W7TNH6](https://www.amazon.com/AeroGarden-Farm-Plus-Black-Height/dp/B073W7TNH6 "https://www.amazon.com/AeroGarden-Farm-Plus-Black-Height/dp/B073W7TNH6")
 
 ### VIVOSUN 2-in-1 Mylar Reflective Grow Tent for Indoor Hydroponic Growing System
@@ -89,6 +91,8 @@ It has a very thick canvas that is both tear proof and makes sure that no to ver
 * The canvas may prevent proper air from seeping through
 * Is not as affordable as the previous model
 
+[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
+
 [https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_= "https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=")
 
 ### Mr. Stacky 5 Tiered Vertical Gardening Planter, Indoor & Outdoor
@@ -109,6 +113,8 @@ It allows you to grow healthier fruits, vegetables, flowers and herbs in the com
 
 * It does not come with a monitoring or control system
 * It can take care of a small number of plants at a given time
+
+[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
 
 [https://www.amazon.com/Mr-Stacky-Vertical-Gardening-Planter/dp/B00AMPUM9M/ref=](https://www.amazon.com/Mr-Stacky-Vertical-Gardening-Planter/dp/B00AMPUM9M/ref= "https://www.amazon.com/Mr-Stacky-Vertical-Gardening-Planter/dp/B00AMPUM9M/ref=")
 
@@ -131,6 +137,8 @@ The tent comes made from high quality plus its OVC free making it rather friendl
 
 * It does not come with free plants
 * The tents is not proof to elements such as fire
+
+[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
 
 [https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=](https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_= "https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=")
 
