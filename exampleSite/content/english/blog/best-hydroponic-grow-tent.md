@@ -15,6 +15,8 @@ Wondering if you should get the best hydroponic grow tent? Then you are on the r
 
 Finding a hydroponic tent is easy. However, when it comes to finding the best, things may not be as easy as we would want them to be. Lucky for you, we did all that and found some of the best.
 
+![](/images/pexels-iconcom-736779.jpg)
+
 ## In a Hurry?
 
 Are you in a hurry to find yourself one of the best hydroponic tents? Then read through this guide and you will find yourself with a full list to choose from of some of the best tents you could use.
