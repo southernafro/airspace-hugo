@@ -24,10 +24,8 @@ Are you in a hurry to find yourself one of the best hydroponic tents? Then read 
 
 Before we go any further. I would like to give a special mention to this tent right here. It comes in just the right size for any indoor growing you might have planned so be sure to check it out
 
-  
-CHECK THE PRICE
-
-[https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_= "https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=")
+[  
+CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
 
 ### VIVOSUN Mylar Hydroponic Grow Tent with Observation Window and Floor Tray
 
@@ -51,9 +49,7 @@ The tents are very easy to install as there are no tools needed. It’s one of t
 
   
   
-CHECK THE PRICE
-
-[https://www.amazon.com/VIVOSUN-Hydroponic-Observation-Window-Growing/dp/B088LMP4XQ?ref_=](https://www.amazon.com/VIVOSUN-Hydroponic-Observation-Window-Growing/dp/B088LMP4XQ?ref_= "https://www.amazon.com/VIVOSUN-Hydroponic-Observation-Window-Growing/dp/B088LMP4XQ?ref_=")
+[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Hydroponic-Observation-Window-Growing/dp/B088LMP4XQ?ref_=)
 
 ### VIVOSUN 2-in-1 Mylar Reflective Grow Tent for Indoor Hydroponic Growing System
 
@@ -77,9 +73,7 @@ It has a very thick canvas that is both tear-proof and makes sure that no to ver
 
   
   
-CHECK THE PRICE
-
-[https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_= "https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=")
+[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
 
 ### Mylar Hydroponic Grow Tent with Observation Window and Floor Tray
 
@@ -103,9 +97,7 @@ The tent comes made from high quality plus its OVC free making it rather friendl
 
   
   
-CHECK THE PRICE
-
-[https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=](https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_= "https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=")
+[CHECK THE PRICE](https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=)
 
 ### CoolGrows 2x2x4 Feet Small Indoor Mylar Hydroponics Grow Tent
 
@@ -113,7 +105,7 @@ This one here is a growing tent that has been designed to make sure that no ligh
 
 It comes with metal bars that make sure that the tent is able to stand on its own at all costs. The strong metal poles give the tents the necessary stability for it to be able to stand with plants without toppling over.
 
-The material used on the tent is 600D and it is very much tear-proof. The viewing window makes it easy for you to see your plants without having to open up and disturb the environment already set.
+The material used in the tent is 600D and it is very much tear-proof. The viewing window makes it easy for you to see your plants without having to open up and disturb the environment already set.
 
 #### Pros
 
@@ -129,9 +121,7 @@ The material used on the tent is 600D and it is very much tear-proof. The viewin
 
   
   
-CHECK THE PRICE
-
-[https://www.amazon.com/CoolGrows-Growing-Dismountable-Reflective-Hydroponic/dp/B07Y89LZLX?ref_=](https://www.amazon.com/CoolGrows-Growing-Dismountable-Reflective-Hydroponic/dp/B07Y89LZLX?ref_= "https://www.amazon.com/CoolGrows-Growing-Dismountable-Reflective-Hydroponic/dp/B07Y89LZLX?ref_=")
+[CHECK THE PRICE](https://www.amazon.com/CoolGrows-Growing-Dismountable-Reflective-Hydroponic/dp/B07Y89LZLX?ref_=)
 
 ### Nova Microdermabrasion Mylar Hydroponic Grow Tent Kit with Observation Window and Floor Tray,
 
@@ -155,9 +145,7 @@ It is built with an extra-thick waterproof canvas and strong metal poles with hi
 
   
   
-CHECK THE PRICE
-
-[https://www.amazon.com/Nova-Microdermabrasion-Hydroponic-Observation-Reflective/dp/B08H1ZWLN4?ref_=](https://www.amazon.com/Nova-Microdermabrasion-Hydroponic-Observation-Reflective/dp/B08H1ZWLN4?ref_= "https://www.amazon.com/Nova-Microdermabrasion-Hydroponic-Observation-Reflective/dp/B08H1ZWLN4?ref_=")
+[CHECK THE PRICE](https://www.amazon.com/Nova-Microdermabrasion-Hydroponic-Observation-Reflective/dp/B08H1ZWLN4?ref_=)
 
 ## Buyer’s Guide
 
