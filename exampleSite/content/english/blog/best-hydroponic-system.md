@@ -30,7 +30,7 @@ What you are looking at here is the Miracle-Gro Aerogarden Ultra which is actual
 
 They took a very complicated system and made it simple with this system here. If you know your systems you may find that this one may just be the fastest way to get an indoor, soil-less garden up and running in no time.
 
-The system includes 3 full spectrum CFL grow lights, gourmet herb seed pod kit, an LCD display control panel as well as the unit itself. This system will aid in the ability to grow plants and herbs 5 times faster than soil grown plants.
+The system includes 3 full spectrum CFL grow lights, gourmet herb seed pod kit, an LCD display control panel as well as the unit itself. This system will aid in the ability to grow plants and herbs 5 times faster than soil-grown plants.
 
 #### Pros
 
@@ -48,11 +48,11 @@ The system includes 3 full spectrum CFL grow lights, gourmet herb seed pod kit, 
 
 ### AeroGarden Farm Plus - Black (24" Grow Height)
 
-Here we are looking at another great option that comes to you from AeroGarden which is the Farm Plus hydroponic system. It comes in both the 12 inch size as well as the 24 inch allowing you to pick one which best suits you.
+Here we are looking at another great option that comes to you from AeroGarden which is the Farm Plus hydroponic system. It comes in both the 12-inch size as well as the 24 inches allowing you to pick one which best suits you.
 
-It is a great system for those who are into herb and vegetable gardening whether indoor or outdoor because when used properly this system will probably produce you some of the best yield.
+It is a great system for those who are into herb and vegetable gardening whether indoor or outdoor because when used properly this system will probably produce you some of the best yields.
 
-There is a digital control panel as well as a smartphone app for you. It allows you to be able to fully monitor your plants and watch them grow from the moment that they are tiny until they become full blown plants.
+There is a digital control panel as well as a smartphone app for you. It allows you to be able to fully monitor your plants and watch them grow from the moment that they are tiny until they become full-blown plants.
 
 #### Pros
 
@@ -70,11 +70,11 @@ There is a digital control panel as well as a smartphone app for you. It allows 
 
 ### VIVOSUN 2-in-1 Mylar Reflective Grow Tent for Indoor Hydroponic Growing System
 
-Here we have the Vivosun 2 in 1 that comes with a 2-tier small tent and one large tent area. In simple terms it is a tent that has another tent inside it. It comes in a very compact size.
+Here we have the Vivosun 2 in 1 that comes with a 2-tier small tent and one large tent area. In simple terms, it is a tent that has another tent inside it. It comes in a very compact size.
 
 It cuts out the need for buying another vegetative or propagation tent for your plant. This is because it is a great tent for Individual room for propagation, vegetation and flowering stages that can keep your plant perpetual harvesting.
 
-It has a very thick canvas that is both tear proof and makes sure that no to very little light is able to escape. It has very strong poles that support it so you dont have to worry about it falling down or being unstable.
+It has a very thick canvas that is both tear-proof and makes sure that no to very little light is able to escape. It has very strong poles that support it so you don't have to worry about it falling down or being unstable.
 
 #### Pros
 
@@ -92,13 +92,13 @@ It has a very thick canvas that is both tear proof and makes sure that no to ver
 
 ### Mr. Stacky 5 Tiered Vertical Gardening Planter, Indoor & Outdoor
 
-Now this is a simple and space saving garden solution that comes to you in a simple vertical hydroponic system. It is very much suitable for both indoor and outdoor use.
+Now, this is a simple and space-saving garden solution that comes to you in a simple vertical hydroponic system. It is very much suitable for both indoor and outdoor use.
 
-It allows you to grow healthier fruits, vegetables, flowers and herbs in the comfort of your own home. Besides all that it is very smart and efficient and can definitely aid you in building a small compact indoor garden.
+It allows you to grow healthier fruits, vegetables, flowers and herbs in the comfort of your own home. Besides all that, it is very smart and efficient and can definitely aid you in building a small compact indoor garden.
 
 #### Pros
 
-* Is a small but heavy duty vertical system
+* Is a small but heavy-duty vertical system
 * It can take care of 20 plants by just watering 1 pot
 * It comes UV protected giving only optimal light to the plants
 * It is very affordable for anyone
@@ -117,7 +117,7 @@ This here is a great hydroponic tent that is designed to block all light from es
 
 The tent also increases the intensity of grow lights and retains heat to keep the whole grow room at the right temperature for plants, flowers, fruits, and vegetables such that they are able to thrive.
 
-The tent comes made from high quality plus its OVC free making it rather friendly to all plants. It has heavy duty zippers that do not open on their own at the same time are easy for anyone trying to open them.
+The tent comes made from high quality plus its OVC free making it rather friendly to all plants. It has heavy-duty zippers that do not open on their own at the same time are easy for anyone trying to open them.
 
 #### Pros
 
