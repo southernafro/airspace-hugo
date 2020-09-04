@@ -1,10 +1,9 @@
 +++
-author = ""
+author = "Derrick M"
 bg_image = ""
 categories = []
-date = ""
-description = ""
-draft = true
+date = 2020-09-07T11:00:00Z
+description = "Considering getting a commercial hydroponic greenhouse? Then you are on the right track, read through this guide and by the end of it, you’ll have a list of possible greenhouses you may want for your garden."
 image = ""
 tags = []
 title = "Commercial Hydroponic Greenhouse"
@@ -14,6 +13,8 @@ type = "post"
 Considering getting a commercial hydroponic greenhouse? Then you are on the right track, read through this guide and by the end of it, you’ll have a list of possible greenhouses you may want for your garden.
 
 Grow tents and greenhouses may have the same attributes. Though with a slight difference in size things pretty much function the same way, only if you know what you are really looking for.
+
+![PLANTS IN GREENHOUSE](/images/pexels-jatuphon-buraphon-348689.jpg)
 
 ## In a Hurry?
 
