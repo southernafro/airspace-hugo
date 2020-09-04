@@ -45,7 +45,7 @@ The system includes 3 full spectrum CFL grow lights, gourmet herb seed pod kit, 
 * Does not come with a pre-installed light
 * Power usage for the system is not known
 
-[https://www.amazon.com/AeroGarden-Ultra-Gourmet-Herb-Seed/dp/B00FHXNG6U](https://www.amazon.com/AeroGarden-Ultra-Gourmet-Herb-Seed/dp/B00FHXNG6U "https://www.amazon.com/AeroGarden-Ultra-Gourmet-Herb-Seed/dp/B00FHXNG6U")
+[CHECK THE PRICE](https://www.amazon.com/AeroGarden-Ultra-Gourmet-Herb-Seed/dp/B00FHXNG6U)
 
 ### AeroGarden Farm Plus - Black (24" Grow Height)
 
@@ -67,9 +67,7 @@ There is a digital control panel as well as a smartphone app for you. It allows 
 * It does not come with its own control system
 * Does not have any inbuilt light control
 
-[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
-
-[https://www.amazon.com/AeroGarden-Farm-Plus-Black-Height/dp/B073W7TNH6](https://www.amazon.com/AeroGarden-Farm-Plus-Black-Height/dp/B073W7TNH6 "https://www.amazon.com/AeroGarden-Farm-Plus-Black-Height/dp/B073W7TNH6")
+[CHECK THE PRICE](https://www.amazon.com/AeroGarden-Farm-Plus-Black-Height/dp/B073W7TNH6)
 
 ### VIVOSUN 2-in-1 Mylar Reflective Grow Tent for Indoor Hydroponic Growing System
 
@@ -93,8 +91,6 @@ It has a very thick canvas that is both tear proof and makes sure that no to ver
 
 [CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
 
-[https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_= "https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=")
-
 ### Mr. Stacky 5 Tiered Vertical Gardening Planter, Indoor & Outdoor
 
 Now this is a simple and space saving garden solution that comes to you in a simple vertical hydroponic system. It is very much suitable for both indoor and outdoor use.
@@ -114,9 +110,7 @@ It allows you to grow healthier fruits, vegetables, flowers and herbs in the com
 * It does not come with a monitoring or control system
 * It can take care of a small number of plants at a given time
 
-[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
-
-[https://www.amazon.com/Mr-Stacky-Vertical-Gardening-Planter/dp/B00AMPUM9M/ref=](https://www.amazon.com/Mr-Stacky-Vertical-Gardening-Planter/dp/B00AMPUM9M/ref= "https://www.amazon.com/Mr-Stacky-Vertical-Gardening-Planter/dp/B00AMPUM9M/ref=")
+[CHECK THE PRICE](https://www.amazon.com/Mr-Stacky-Vertical-Gardening-Planter/dp/B00AMPUM9M/ref=)
 
 ### Mylar Hydroponic Grow Tent with Observation Window and Floor Tray
 
@@ -129,7 +123,7 @@ The tent comes made from high quality plus its OVC free making it rather friendl
 #### Pros
 
 * Tent is made from Pvc free material making it very friendly to plants
-* The door unzips easily but is steady enough to hold out on it’s own
+* The door unzips easily but is steady enough to hold out on its own
 * The tent increases the intensity of plant growth
 * It keeps light locked in at all times leaving very little room for it to escape
 
@@ -138,9 +132,7 @@ The tent comes made from high quality plus its OVC free making it rather friendl
 * It does not come with free plants
 * The tent is not resistant to elements such as fire
 
-[CHECK THE PRICE](https://www.amazon.com/VIVOSUN-Reflective-Indoor-Hydroponic-Growing/dp/B07QTKB8X7?ref_=)
-
-[https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=](https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_= "https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=")
+[CHECK THE PRICE](https://www.amazon.com/Hydroponic-Obeservation-Window-Indoor-Growing/dp/B075D13LNP?ref_=)
 
 ## Buyer’s Guide
 
