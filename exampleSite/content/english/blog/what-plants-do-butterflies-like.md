@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = 2020-10-26T00:00:00Z
 description = ""
-draft = true
 image = ""
 tags = []
 title = "What plants do butterflies like"
