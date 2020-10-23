@@ -19,6 +19,8 @@ The greenhouse effect works the same way on earth. Gases in the atmosphere, such
 
 ## **GREENHOUSE GARDENING**
 
+![](/images/savoy-in-a-basket.jpg)
+
 Greenhouses can help increase plant growth, fruit production and allow you to grow plants that wouldn’t normally survive or those that are out of season. To get the most out of your greenhouse, you just have to understand how the process works. Plants need light, warm temperatures, air, water, and nutrients to survive and give the best yield. Different species of plants need these necessities in different proportions. A greenhouse will make sure your plants get sunlight and heat, but the other necessities have to be provided by you.
 
 ## **How Greenhouses work:**
