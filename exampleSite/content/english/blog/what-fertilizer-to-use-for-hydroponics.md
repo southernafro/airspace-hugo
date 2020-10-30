@@ -27,9 +27,9 @@ Your other option is between organic and synthetic fertilizer. Also, some are ma
 
 ## General hydroponics flora grow, flora bloom, and flora micro.
 
-[https://www.amazon.com/General-Hydroponics-Flora-Bloom-Fertilizer/dp/B017H73708](https://www.amazon.com/General-Hydroponics-Flora-Bloom-Fertilizer/dp/B017H73708 "https://www.amazon.com/General-Hydroponics-Flora-Bloom-Fertilizer/dp/B017H73708")
+![](/images/check-the-best-price.jpg)
 
-This fertilizer package comes with three bottles in it which are growing, bloom, and micro. These each have a different and specific role to play in the growth of the plants across different stages. Each is tailored to suit a certain stage.
+This fertilizer package comes with three bottles in it which are growing, bloom, and micro. These each has a different and specific role to play in the growth of the plants across different stages. Each is tailored to suit a certain stage.
 
 Flora grows, (2-1-6) is great for plants in their infancy, when they need macronutrients and higher concentrations of potassium. FloraMicro (5-0-1) has a good amount of nitrogen as well as other minerals (NPK ratio of 5-0-1). Plants need these nutrients at all stages in their growth. Then flor bloom is excellent for plants when they are in their flowering stage. Flora bloom adds phosphorus, magnesium as well as sulfur using the ration (0-5-4)
 
@@ -48,6 +48,6 @@ The labels on the bottles will help you know when and how you need to be using t
 
 ## One last thing.
 
-There are many different fertilizer types. I have looked at the one that works throughout a plant's life cycle, it's easy to use and is also efficient to use. You can rest assured that the plants are getting what they need and when they need it. You will not need to be an expert to use General hydroponics flora grow, flora bloom, and flora micro.
+There are many different fertilizer types. I have looked at the one that works throughout a plant's life cycle, it's easy to use and is also efficient to use. You can rest assured that the plants are getting what they need and when they need it. You will not need to be an expert to use General hydroponics flora to grow, flora bloom, and flora micro.
 
 Regardless of the label you go for, ensure that you can use it with ease and that it will be efficient.
