@@ -4,7 +4,6 @@ bg_image = ""
 categories = []
 date = ""
 description = ""
-draft = true
 image = ""
 tags = []
 title = "What fertilizer to use for hydroponics"
@@ -28,6 +27,8 @@ Your other option is between organic and synthetic fertilizer. Also, some are ma
 ## General hydroponics flora grow, flora bloom, and flora micro.
 
 ![](/images/check-the-best-price.jpg)
+
+[Click Here](https://www.amazon.com/General-Hydroponics-Flora-Bloom-Fertilizer/dp/B017H73708/ref=as_li_ss_tl?ie=UTF8&linkCode=ll1&tag=smartfarmerhub-20&linkId=0499142ee61cdc0e2b1383e8c6484ea1&language=en_US)
 
 This fertilizer package comes with three bottles in it which are growing, bloom, and micro. These each has a different and specific role to play in the growth of the plants across different stages. Each is tailored to suit a certain stage.
 
