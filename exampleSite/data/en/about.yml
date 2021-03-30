@@ -102,22 +102,18 @@ mission_vision:
   tabs:
   - name: Vision
     content: |
-      Our vision is to see to a world where food is produced in a sustainable way. Reducing the amount of food that goes to waste is critical for the sustainability of our agriculture system.
+      Our vision is to see a world where food is produced in a sustainable way. Reducing the amount of food that goes to waste is critical for the sustainability of our agriculture system.
 
       Description of how you will accomplish this:
 
       By providing farmers with the proper tools and information they need, we can increase food production at a substantial rate. By reducing food waste, we will be able to feed more people and reduce hunger in our world. As part of our goal to cut down food waste globally, Smart Farmers Hub will produce a comprehensive database that highlights reading material related to the issue.
   - name: Mission
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
-      ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
-      ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
-      Fuga magnam perspiciatis fugit, placeat possimus officia non ducimus voluptatum
-      aspernatur ad quidem neque accusantium repudiandae cupiditate nobis corporis,
-      cum facere iusto, modi cumque consectetur saepe. Officia, molestiae tempore!
-      Consequatur ipsa consequuntur saepe suscipit vero laudantium, mollitia, quaerat
-      soluta nihil non tempore, quos dignissimos quasi ab officiis illum numquam quibusdam
-      ducimus, veritatis ad. Quia, aliquid. Quaerat quos ducimus ipsam amet minus
-      temporibus eos sequi alias hic nemo.
+    content: "Accessibility is one of the main hurdles in our agricultural system.
+      One of the main factors that makes us forget about the importance of accessibility
+      is that we are able to access information quickly through technology.\n\nWith
+      Smart Farmers Hub, we will allow farmers to take advantage of all the great
+      resources available on the internet. We will make sure that they have full access
+      to all relevant sources; whether they are scientific or not is unimportant. "
   - name: Approach
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
