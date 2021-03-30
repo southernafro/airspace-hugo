@@ -10,7 +10,6 @@ title = "Advantages of Hydroponics"
 type = "post"
 
 +++
-
 Are you looking at the different farming methods that you can use? Perhaps you have heard of and would like to know the advantages of hydroponics. To make an informed decision, it is important to know what hydroponic systems work and also what benefits you get when you employ this system.
 
 When thinking about employing new farming methods, it is important to keep in mind the type of crops you want to grow and what sort of nutrients they need.
@@ -40,8 +39,6 @@ Whatever you will plant using this system, will grow faster than if you were to 
 ## You will not need to use pesticides or chemicals
 
 Because you are not growing the plants in soil, there will be no need to use chemicals such as pesticides which can be harmful to the environment and you as well.
-
-## 
 
 ## You get increased nutritional value
 
