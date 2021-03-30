@@ -2,7 +2,7 @@
 author = ""
 bg_image = ""
 categories = []
-date = ""
+date = 2020-05-03T23:00:00Z
 description = ""
 image = ""
 tags = []
