@@ -35,17 +35,27 @@ features:
   title: We are indepented Design & Development Agency
   feature_item:
   - icon: ion-ios-color-filter-outline
-    name: IOS App Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Contributors
+    content: Smart Farmers Hub seeks to involve as many qualified and reliable sources
+      of information as possible. Our goal is to create a database that showcases
+      the breadth of information available for farmers around the world.
   - icon: ion-ios-unlocked-outline
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Publications
+    content: Smart Farmers Hub seeks to provide farmers with a comprehensive database
+      that will highlight all publications related to food security and agricultural
+      research. In addition, we will include relevant articles from other sources
+      addressing topics related to agriculture, including the government policy, development,
+      and local climate change.
   - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Publish
+    content: Smart Farmers Hub will be the hub that will provide farmers with access
+      to the latest publications, peer-reviewed beneficial information, current issues
+      as well as all the research articles pertaining to food security and agricultural
+      production. Future  Our goal is to be a primary source of reliable information
+      for farmers. Our vision is to build a website that is capable of tracking articles
+      from all over the world and providing access to them with full-text. We are
+      working hard to provide farmers with open access so that they can use the information
+      as much as possible.
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
