@@ -57,13 +57,22 @@ features:
       working hard to provide farmers with open access so that they can use the information
       as much as possible.
   - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 'The impact that this project will have:'
+    content: Access to information is essential for farmers to be able to make informed
+      decisions. Smart Farmers Hub has a commitment to providing farmers with the
+      latest research and articles pertaining to agriculture. We believe that these
+      practices should be open source so that farmers can access the information free
+      of charge and use the information whenever they need it. This database will
+      be the largest source of research-related literature for farmers from all over
+      the world.
   - icon: ion-ios-lightbulb-outline
-    name: UI/UX Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: 'Description of how you will accomplish this:'
+    content: Smart Farmers Hub is currently in the process of aggregating information
+      so that farmers can access everything from one place. We are working hard to
+      find all relevant sources and make them available on the website. The database
+      will be searchable by keyword, author, article type, and topic. In addition,
+      we are working on making a portion of research available in its entirety so
+      that farmers can use all the information that is available to them.
   - icon: ion-ios-star-outline
     name: Branding
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
