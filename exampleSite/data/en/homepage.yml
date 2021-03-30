@@ -2,10 +2,13 @@
 banner:
   enable: true
   bg_image: "/images/countryside-1851503_1280.jpg"
-  title: A Hub for <br/> Smart Farmers
-  content: We understand the importance of farming. There is tremendous benefit from
-    sharing what we know with others. Learning from each other makes the journey easier,
-    and worthwhile.
+  title: Agriculture Information
+  content: We believe that access to proper information will help each individual
+    farmer make decisions that will lead to higher crop yields and better farming
+    practices. According to FAO [Organization of the United Nations for Food and Agriculture],
+    “Agriculture is the most important sector in the food supply, accounting for one-third
+    of total agricultural production.” Smart Farmers Hub strives to provide farmers
+    with all the information needed to create sustainable farming practices.
   button:
     enable: true
     label: Discover Our Project
@@ -25,13 +28,11 @@ about:
 portfolio:
   enable: true
   bg_image: "/images/dji-4208863_1280.jpg"
-  title: WE BELIEVE IN GREAT IDEAS
-  content: |-
-    “Only a fool learns from his own mistakes. The wise man learns from the mistakes of others.” - Otto von Bismarck
-
-    This couldn't be more true when it comes to farming. Our personal experiences and that of others should be brought together to build a wealth of information that we can all benefit from.
-
-    Whatever the type of farming that you are involved in, there is information that you can share. There is undoubtedly science, tools, and new methods at our disposal. It would be a travesty if we didn't take advantage of these things. They are the things that make us Smart Farmers.
+  title: Current Issues
+  content: Smart Farmers Hub is concerned with current issues that directly affect
+    farmers throughout the world. We want to provide resources such as current articles,
+    debates, and opinions related to food security and agriculture so that you can
+    find solutions.
   button:
     enable: true
     label: View Works
@@ -41,10 +42,11 @@ service:
 cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  title: Food Security
+  content: Food Security is essential to advancing the human race. It is a major focus
+    of Smart Farmers Hub because the more food we can grow, the higher our quality
+    of life becomes. It is our vision to feed as many people as possible with the
+    highest quality food and maximize the resources available.
   button:
     enable: true
     label: Tell Us Your Story
